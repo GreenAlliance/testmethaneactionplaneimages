@@ -3,3 +3,4 @@
 ![thermometer_25](https://github.com/user-attachments/assets/062af895-2385-4bb0-9961-2a578f103bd5)
 ![thermometer_full](https://github.com/user-attachments/assets/c2eb7ab1-7ba0-47e7-85a4-31eaa3d905c7)
 ![thermometer_empty](https://github.com/user-attachments/assets/a2e5039c-38fe-4c82-b6ef-6619e29b73a3)
+![Image](https://github.com/user-attachments/assets/a7581ea2-5dc9-4838-b531-f51aa1266bf6)
