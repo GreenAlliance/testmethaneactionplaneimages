@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Methane Reduction Action Plan</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Methane Reduction Action Plan</h1>
+    
+    <!-- Thermometer Image -->
+    <div class="thermometer-container">
+      <img id="thermometer" src="images/thermometer_full.png" alt="Thermometer" />
+    </div>
+
+    <!-- Question and Answers -->
+    <div class="question-container">
+      <p>Will you encourage a 10% reduction in meat eating by 2030?</p>
+      <button onclick="updateThermometer(true)">Yes</button>
+      <button onclick="updateThermometer(false)">No</button>
+    </div>
+
+    <div class="question-container">
+      <p>Will you support alternative protein development in processed foods?</p>
+      <button onclick="updateThermometer(true)">Yes</button>
+      <button onclick="updateThermometer(false)">No</button>
+    </div>
+
+    <div class="question-container">
+      <p>Will you help farmers acidify their slurry stores?</p>
+      <button onclick="updateThermometer(true)">Yes</button>
+      <button onclick="updateThermometer(false)">No</button>
+    </div>
+
+    <div class="question-container">
+      <p>Will you help farmers capture methane from their slurry and sell it to the grid?</p>
+      <button onclick="updateThermometer(true)">Yes</button>
+      <button onclick="updateThermometer(false)">No</button>
+    </div>
+
+    <footer>
+      <p>Created by Green Alliance</p>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
