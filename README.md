@@ -1,0 +1,5 @@
+![thermometer_75](https://github.com/user-attachments/assets/7b27e4be-b1c4-4282-8e97-d88246db95a2)
+![thermometer_50](https://github.com/user-attachments/assets/52badcf8-ed84-4fef-a700-00a8ccc50043)
+![thermometer_25](https://github.com/user-attachments/assets/062af895-2385-4bb0-9961-2a578f103bd5)
+![thermometer_full](https://github.com/user-attachments/assets/c2eb7ab1-7ba0-47e7-85a4-31eaa3d905c7)
+![thermometer_empty](https://github.com/user-attachments/assets/a2e5039c-38fe-4c82-b6ef-6619e29b73a3)
